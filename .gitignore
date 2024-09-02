@@ -1,0 +1,7 @@
+__pycache__
+
+.*
+.env
+run.txt
+cache/*
+output/20240906-224201/artifacts/lancedb/*

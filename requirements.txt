@@ -1,0 +1,9 @@
+graphrag
+fastapi
+uvicorn
+pandas
+tiktoken
+graphrag
+pydantic
+python-dotenv
+asyncio
