@@ -46,7 +46,7 @@ By integrating it with this chatbot, you can build even better apps.
    1. Go to Connections tab in [Admin Settings](http://localhost:8080/admin/settings).
    2. Revise OpenAI API Base URL to `http://<your server location>:8012/v1` and set an arbitrary API Key.
   
-4. (Optional) Select your Default Model(GraphRAG local or grobal method) at Interface tab of Settings.
+4. (Optional) Select your Default Model(GraphRAG local or global method) at Interface tab of Settings.
 
 ## Credits
 - Open WebUI interface of this project is revised from [the implementation by win4r](https://github.com/win4r/GraphRAG4OpenWebUI).
